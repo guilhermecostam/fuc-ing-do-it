@@ -1,0 +1,71 @@
+.container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.header {
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 2em;
+    border-bottom: 1px dotted #999;
+}
+
+body {
+    background-color: #FFFACD !important;
+}
+
+h1 {
+    color: #7c795d !important;
+    font-family: 'Trocchi' !important;
+    font-size: 45px !important;
+    font-weight: normal !important;
+    line-height: 48px !important;
+    margin: 0 !important;
+}
+
+h4 {
+    color: #7c795d !important;
+    font-family: 'Trocchi' !important;
+}
+
+.lead {
+    text-align: center;
+    color: #7c795d !important;
+    font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.button-row {
+    text-align: center;
+    margin: 1em;
+}
+
+.btn-black {
+    color: #7c795d !important;
+}
+
+#phrases {
+    font: 14px/20px italic Times, serif;
+    padding: 8px;
+    border-top: 1px solid #e1cc89 !important;
+    border-bottom: 1px solid #e1cc89 !important;
+    background-image: url(http://gadarf.googlepages.com/openquote1.gif);
+    background-position: top left;
+    background-repeat: no-repeat;
+    text-indent: 23px;
+    margin: 1em 3em !important;
+    padding: .5em 1em !important;
+    border-left: 5px solid #fce27c !important;
+    background-color: #f6ebc1 !important;
+}
+
+.words-row {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.footer {
+    text-align: right;
+    padding: 1em 0;
+    margin-top: 2em;
+    border-top: 1px dotted #999;
+}
