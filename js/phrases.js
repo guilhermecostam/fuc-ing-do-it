@@ -4,8 +4,8 @@ function choice(x) {
 
 function generate_one(sphrase) {
     while (1) {
-        word1 = choice(sphrase);
-        return "<p>" + word1 + "</p>";
+        phrase = choice(sphrase);
+        return "<p>" + phrase + "</p>";
     }
 }
 
