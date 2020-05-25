@@ -4,6 +4,7 @@ fucking-do-it
 </h1>
 
 <p align="center">Web system that shows random motivational phrases by clicking the "Motivate me more" button. The intention is that the user is motivated to do their daily activities.</p>
+<p align="center"> Access the site by clicking <a href="https://guilhermecostam.github.io/fucking-do-it/"> here. </a> </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
