@@ -26,7 +26,7 @@ These are the features I used in developing this project.
 Clone the project with the following command:
 
 ```sh
-git clone https://github.com/guilhermecostam/fucking-do-it.git
+git clone https://github.com/guilhermecostam/fuc-ing-do-it.git
 ```
 
 Now just open `index.html` in your browser
